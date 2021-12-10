@@ -10,7 +10,7 @@ contain any whitespace.
 3. To recover the modeling and prediction, we first need to do futher preprocessing of the tweet text and then combine with the Bitcoin price data which is named "coin_Bitcoin.csv" in the modeling_data folder, the result output file is named as "textblob_data.csv" in the modeling_data folder. The code to accompolish this is saved as "twitter_preprocessing.ipynb" in the modeling_code folder.
 4. For implementation of linear model and Gradient Boosting model, refer to the "spark_ML_model.ipynb" in the modeling_code folder, and it also outputs a dataset named "lstmdata.csv" in the modeling_data folder for building the LSTM model.
 5. For implementation of linear model and Gradient Boosting model, refer to the "LSTM_model.ipynb" in the modeling_code folder.
-6. For Neil
+6. To visualize the code, open a terminal and navigate to the Visualization folder in this project. Run the application using ```python app.py``` and then go to your browser and enter ```localhost:5000```
 
 
 
