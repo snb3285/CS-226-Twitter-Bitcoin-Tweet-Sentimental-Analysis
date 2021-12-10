@@ -1,7 +1,7 @@
 # CS-226-Twitter-Bitcoin-Tweet-Sentimental-Analysis
 1. For implementation of sentiment analysis with Kaggle, we can see the instructions and run our code in “Sentiment_Analysis_Kaggle.ipynb” 
-2. For Henry
-3. For Lin
+2. To recover the modeling and prediction, we first need to do futher preprocessing of the text and then combine with the Bitcoin price data. For implementation of linear model and Gradient Boosting model, refer to the "spark_ML_model.ipynb"
+3. 
 4. For Neil
 
 
