@@ -12,7 +12,7 @@
 
 
 
-####For the piepline 
+####For the pipeline 
 
 1. Open the folder SentimentalAnalysis and Run Driver.py for instantiating Listener Class 
 2. Run senana.py for receiving tweets.  
